@@ -1,2 +1,2 @@
-# student_information_system
+# Student Information System
 BSIT Group Project Repository

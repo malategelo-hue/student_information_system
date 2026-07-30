@@ -1,2 +1,2 @@
-# Student Information System - UI & Backend Edit 
+# Student Information System - UI & Backend
 BSIT Group Project Repository
